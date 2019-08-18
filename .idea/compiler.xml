@@ -7,9 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springcloud-api-gateway" />
-        <module name="springcloud-guest" />
-        <module name="springcloud-netflix-eureka" />
         <module name="springcloud-biz-repo" />
+        <module name="springcloud-netflix-eureka" />
+        <module name="springcloud-guest" />
         <module name="springcloud-commons" />
         <module name="springcloud-biz-order" />
       </profile>

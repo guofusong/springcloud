@@ -32,7 +32,9 @@ public class OrderController {
 	
 	@RequestMapping(value = "/order/info")
 	public Rsp info() {
-		
+
+		logger.info("----------->info:订单信息");
+
 		final Rsp rsp = new Rsp();
 		rsp.setCode(BizCode.success.code());
 		rsp.setResult("Order Service");
