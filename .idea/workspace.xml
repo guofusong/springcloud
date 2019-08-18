@@ -47,6 +47,489 @@
       <change afterPath="$PROJECT_DIR$/springcloud-netflix-eureka/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/springcloud-netflix-eureka/springcloud-netflix-eureka.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/springcloud-netflix-eureka/src/main/java/com/hijklmn/springcloud/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/conf/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/src/main/java/fun/hijklmn/springcloud/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/src/main/java/fun/hijklmn/springcloud/SpringBootLoadingDefaultProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/src/main/java/fun/hijklmn/springcloud/controller/OrderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/classes/META-INF/maven/fun.hijklmn.springcloud/springcloud-biz-order/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/classes/META-INF/maven/fun.hijklmn.springcloud/springcloud-biz-order/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/classes/fun/hijklmn/springcloud/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/classes/fun/hijklmn/springcloud/SpringBootLoadingDefaultProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/classes/fun/hijklmn/springcloud/controller/OrderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/conf/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/HdrHistogram-2.1.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/antlr-2.7.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/antlr-runtime-3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/archaius-core-0.7.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/aspectjweaver-1.8.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/bcpkix-jdk15on-1.56.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/bcprov-jdk15on-1.56.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/classmate-1.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/commons-codec-1.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/commons-collections-3.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/commons-configuration-1.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/commons-jxpath-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/commons-lang-2.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/commons-math-2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/compactmap-1.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/dexx-collections-0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/eureka-client-1.9.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/eureka-core-1.9.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/gson-2.8.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/guava-16.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/guice-4.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/hibernate-validator-6.0.7.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/httpclient-4.5.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/httpcore-4.4.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/hystrix-core-1.5.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/jackson-annotations-2.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/jackson-core-2.9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/jackson-databind-2.9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/jackson-datatype-jdk8-2.9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/jackson-datatype-jsr310-2.9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/jackson-module-parameter-names-2.9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/javax.annotation-api-1.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/javax.inject-1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/jboss-logging-3.3.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/jersey-apache-client4-1.19.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/jersey-client-1.19.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/jersey-core-1.19.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/jettison-1.3.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/joda-time-2.9.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/jsr311-api-1.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/jul-to-slf4j-1.7.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/log4j-api-2.10.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/log4j-to-slf4j-2.10.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/logback-classic-1.2.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/logback-core-1.2.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/netflix-commons-util-0.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/netflix-eventbus-0.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/netflix-infix-0.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/netflix-statistics-0.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/netty-buffer-4.1.22.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/netty-codec-4.1.22.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/netty-codec-http-4.1.22.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/netty-common-4.1.22.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/netty-resolver-4.1.22.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/netty-transport-4.1.22.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/netty-transport-native-epoll-4.1.22.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/netty-transport-native-unix-common-4.1.22.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/ribbon-2.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/ribbon-core-2.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/ribbon-eureka-2.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/ribbon-httpclient-2.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/ribbon-loadbalancer-2.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/ribbon-transport-2.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/rxjava-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/rxnetty-0.4.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/rxnetty-contexts-0.4.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/rxnetty-servo-0.4.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/servo-core-0.12.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/slf4j-api-1.7.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/snakeyaml-1.19.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/spring-aop-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/spring-beans-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/spring-boot-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/spring-boot-autoconfigure-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/spring-boot-starter-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/spring-boot-starter-aop-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/spring-boot-starter-json-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/spring-boot-starter-logging-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/spring-boot-starter-tomcat-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/spring-boot-starter-web-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/spring-cloud-commons-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/spring-cloud-context-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/spring-cloud-netflix-archaius-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/spring-cloud-netflix-core-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/spring-cloud-netflix-eureka-client-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/spring-cloud-netflix-ribbon-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/spring-cloud-starter-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/spring-cloud-starter-netflix-archaius-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/spring-cloud-starter-netflix-eureka-client-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/spring-cloud-starter-netflix-ribbon-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/spring-context-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/spring-core-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/spring-expression-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/spring-jcl-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/spring-security-crypto-5.0.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/spring-security-rsa-1.0.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/spring-web-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/spring-webmvc-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/springcloud-commons-1.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/stax-api-1.0-2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/stax-api-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/stax2-api-3.1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/stringtemplate-3.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/tomcat-embed-core-8.5.28.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/tomcat-embed-el-8.5.28.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/tomcat-embed-websocket-8.5.28.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/validation-api-2.0.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/woodstox-core-asl-4.4.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/xmlpull-1.1.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/xpp3_min-1.1.4c.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/lib/xstream-1.4.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/springcloud-biz-order-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/target/springcloud-biz-order.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/conf/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/src/main/java/fun/hijklmn/springcloud/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/src/main/java/fun/hijklmn/springcloud/SpringBootLoadingDefaultProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/src/main/java/fun/hijklmn/springcloud/controller/RepoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/classes/META-INF/maven/fun.hijklmn.springcloud/springcloud-biz-repo/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/classes/META-INF/maven/fun.hijklmn.springcloud/springcloud-biz-repo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/classes/fun/hijklmn/springcloud/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/classes/fun/hijklmn/springcloud/SpringBootLoadingDefaultProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/classes/fun/hijklmn/springcloud/controller/RepoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/conf/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/HdrHistogram-2.1.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/antlr-2.7.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/antlr-runtime-3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/archaius-core-0.7.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/aspectjweaver-1.8.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/bcpkix-jdk15on-1.56.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/bcprov-jdk15on-1.56.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/classmate-1.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/commons-codec-1.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/commons-collections-3.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/commons-configuration-1.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/commons-jxpath-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/commons-lang-2.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/commons-math-2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/compactmap-1.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/dexx-collections-0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/eureka-client-1.9.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/eureka-core-1.9.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/feign-core-9.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/feign-hystrix-9.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/feign-java8-9.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/feign-slf4j-9.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/gson-2.8.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/guava-16.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/guice-4.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/hibernate-validator-6.0.7.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/httpclient-4.5.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/httpcore-4.4.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/hystrix-core-1.5.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/jackson-annotations-2.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/jackson-core-2.9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/jackson-databind-2.9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/jackson-datatype-jdk8-2.9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/jackson-datatype-jsr310-2.9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/jackson-module-parameter-names-2.9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/javax.annotation-api-1.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/javax.inject-1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/jboss-logging-3.3.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/jersey-apache-client4-1.19.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/jersey-client-1.19.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/jersey-core-1.19.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/jettison-1.3.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/joda-time-2.9.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/jsr311-api-1.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/jul-to-slf4j-1.7.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/log4j-api-2.10.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/log4j-to-slf4j-2.10.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/logback-classic-1.2.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/logback-core-1.2.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/netflix-commons-util-0.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/netflix-eventbus-0.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/netflix-infix-0.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/netflix-statistics-0.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/netty-buffer-4.1.22.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/netty-codec-4.1.22.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/netty-codec-http-4.1.22.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/netty-common-4.1.22.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/netty-resolver-4.1.22.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/netty-transport-4.1.22.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/netty-transport-native-epoll-4.1.22.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/netty-transport-native-unix-common-4.1.22.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/ribbon-2.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/ribbon-core-2.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/ribbon-eureka-2.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/ribbon-httpclient-2.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/ribbon-loadbalancer-2.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/ribbon-transport-2.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/rxjava-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/rxnetty-0.4.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/rxnetty-contexts-0.4.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/rxnetty-servo-0.4.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/servo-core-0.12.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/slf4j-api-1.7.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/snakeyaml-1.19.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/spring-aop-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/spring-beans-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/spring-boot-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/spring-boot-autoconfigure-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/spring-boot-starter-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/spring-boot-starter-aop-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/spring-boot-starter-json-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/spring-boot-starter-logging-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/spring-boot-starter-tomcat-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/spring-boot-starter-web-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/spring-cloud-commons-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/spring-cloud-context-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/spring-cloud-netflix-archaius-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/spring-cloud-netflix-core-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/spring-cloud-netflix-eureka-client-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/spring-cloud-netflix-ribbon-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/spring-cloud-openfeign-core-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/spring-cloud-starter-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/spring-cloud-starter-netflix-archaius-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/spring-cloud-starter-netflix-eureka-client-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/spring-cloud-starter-netflix-ribbon-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/spring-cloud-starter-openfeign-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/spring-context-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/spring-core-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/spring-expression-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/spring-jcl-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/spring-security-crypto-5.0.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/spring-security-rsa-1.0.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/spring-web-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/spring-webmvc-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/springcloud-commons-1.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/stax-api-1.0-2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/stax-api-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/stax2-api-3.1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/stringtemplate-3.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/tomcat-embed-core-8.5.28.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/tomcat-embed-el-8.5.28.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/tomcat-embed-websocket-8.5.28.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/validation-api-2.0.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/woodstox-core-asl-4.4.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/xmlpull-1.1.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/xpp3_min-1.1.4c.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/lib/xstream-1.4.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/springcloud-biz-repo-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-biz-repo/target/springcloud-biz-repo.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-commons/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-commons/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-commons/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-commons/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-commons/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-commons/src/main/java/fun/hijklmn/springcloud/biz/Req.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-commons/src/main/java/fun/hijklmn/springcloud/biz/Rsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-commons/src/main/java/fun/hijklmn/springcloud/constants/BizCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-commons/src/main/java/fun/hijklmn/springcloud/constants/PayType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-commons/src/main/java/fun/hijklmn/springcloud/po/OrderDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-commons/src/main/java/fun/hijklmn/springcloud/po/RepoDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-commons/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-commons/target/classes/META-INF/maven/fun.hijklmn.springcloud/springcloud-commons/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-commons/target/classes/META-INF/maven/fun.hijklmn.springcloud/springcloud-commons/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-commons/target/classes/fun/hijklmn/springcloud/biz/Req.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-commons/target/classes/fun/hijklmn/springcloud/biz/Rsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-commons/target/classes/fun/hijklmn/springcloud/constants/BizCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-commons/target/classes/fun/hijklmn/springcloud/constants/PayType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-commons/target/classes/fun/hijklmn/springcloud/po/OrderDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-commons/target/classes/fun/hijklmn/springcloud/po/RepoDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-commons/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-commons/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-commons/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-commons/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-commons/target/springcloud-commons-1.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-guest/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-guest/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-guest/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-guest/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-guest/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-guest/conf/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-guest/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-guest/src/main/java/fun/hijklmn/springcloud/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-guest/src/main/java/fun/hijklmn/springcloud/SpringBootLoadingDefaultProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-guest/src/main/java/fun/hijklmn/springcloud/conf/ApplicationConf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-guest/src/main/java/fun/hijklmn/springcloud/controller/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-guest/src/main/java/fun/hijklmn/springcloud/controller/OrderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-guest/src/main/java/fun/hijklmn/springcloud/controller/RepoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-guest/src/main/java/fun/hijklmn/springcloud/service/OrderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-guest/src/main/java/fun/hijklmn/springcloud/service/RepoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-guest/src/main/java/fun/hijklmn/springcloud/service/impl/OrderServiceFeignFallback.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-guest/src/main/java/fun/hijklmn/springcloud/service/impl/RepoServiceFeignFallback.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-guest/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-guest/target/classes/META-INF/maven/fun.hijklmn.springcloud/springcloud-guest/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-guest/target/classes/META-INF/maven/fun.hijklmn.springcloud/springcloud-guest/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-guest/target/classes/fun/hijklmn/springcloud/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-guest/target/classes/fun/hijklmn/springcloud/SpringBootLoadingDefaultProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-guest/target/classes/fun/hijklmn/springcloud/conf/ApplicationConf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-guest/target/classes/fun/hijklmn/springcloud/controller/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-guest/target/classes/fun/hijklmn/springcloud/controller/OrderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-guest/target/classes/fun/hijklmn/springcloud/controller/RepoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-guest/target/classes/fun/hijklmn/springcloud/service/OrderService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-guest/target/classes/fun/hijklmn/springcloud/service/RepoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-guest/target/classes/fun/hijklmn/springcloud/service/impl/OrderServiceFeignFallback.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-guest/target/classes/fun/hijklmn/springcloud/service/impl/RepoServiceFeignFallback.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/conf/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/src/main/java/fun/hijklmn/springcloud/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/src/main/java/fun/hijklmn/springcloud/SpringBootLoadingDefaultProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/classes/META-INF/maven/fun.hijklmn.springcloud/springcloud-netflix-eureka/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/classes/META-INF/maven/fun.hijklmn.springcloud/springcloud-netflix-eureka/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/classes/fun/hijklmn/springcloud/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/classes/fun/hijklmn/springcloud/SpringBootLoadingDefaultProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/conf/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/HdrHistogram-2.1.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/LatencyUtils-2.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/antlr-2.7.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/antlr-runtime-3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/archaius-core-0.7.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/aspectjweaver-1.8.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/bcpkix-jdk15on-1.56.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/bcprov-jdk15on-1.56.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/classmate-1.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/commons-codec-1.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/commons-collections-3.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/commons-configuration-1.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/commons-jxpath-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/commons-lang-2.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/commons-math-2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/compactmap-1.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/dexx-collections-0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/eureka-client-1.9.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/eureka-core-1.9.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/freemarker-2.3.27-incubating.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/gson-2.8.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/guava-16.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/guice-4.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/hibernate-validator-6.0.7.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/httpclient-4.5.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/httpcore-4.4.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/hystrix-core-1.5.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/jackson-annotations-2.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/jackson-core-2.9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/jackson-databind-2.9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/jackson-dataformat-xml-2.9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/jackson-datatype-jdk8-2.9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/jackson-datatype-jsr310-2.9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/jackson-module-jaxb-annotations-2.9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/jackson-module-parameter-names-2.9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/javax.annotation-api-1.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/javax.inject-1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/jboss-logging-3.3.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/jersey-apache-client4-1.19.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/jersey-client-1.19.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/jersey-core-1.19.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/jersey-server-1.19.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/jersey-servlet-1.19.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/jettison-1.3.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/joda-time-2.9.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/jsr305-3.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/jsr311-api-1.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/jul-to-slf4j-1.7.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/log4j-api-2.10.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/log4j-to-slf4j-2.10.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/logback-classic-1.2.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/logback-core-1.2.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/micrometer-core-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/netflix-commons-util-0.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/netflix-eventbus-0.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/netflix-infix-0.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/netflix-statistics-0.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/netty-buffer-4.1.22.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/netty-codec-4.1.22.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/netty-codec-http-4.1.22.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/netty-common-4.1.22.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/netty-resolver-4.1.22.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/netty-transport-4.1.22.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/netty-transport-native-epoll-4.1.22.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/netty-transport-native-unix-common-4.1.22.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/ribbon-2.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/ribbon-core-2.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/ribbon-eureka-2.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/ribbon-httpclient-2.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/ribbon-loadbalancer-2.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/ribbon-transport-2.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/rxjava-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/rxnetty-0.4.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/rxnetty-contexts-0.4.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/rxnetty-servo-0.4.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/servo-core-0.12.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/slf4j-api-1.7.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/snakeyaml-1.19.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/spring-aop-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/spring-beans-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/spring-boot-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/spring-boot-actuator-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/spring-boot-actuator-autoconfigure-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/spring-boot-autoconfigure-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/spring-boot-starter-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/spring-boot-starter-actuator-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/spring-boot-starter-aop-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/spring-boot-starter-freemarker-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/spring-boot-starter-json-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/spring-boot-starter-logging-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/spring-boot-starter-tomcat-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/spring-boot-starter-web-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/spring-cloud-commons-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/spring-cloud-context-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/spring-cloud-netflix-archaius-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/spring-cloud-netflix-core-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/spring-cloud-netflix-eureka-client-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/spring-cloud-netflix-eureka-server-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/spring-cloud-netflix-ribbon-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/spring-cloud-starter-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/spring-cloud-starter-netflix-archaius-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/spring-cloud-starter-netflix-eureka-server-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/spring-cloud-starter-netflix-ribbon-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/spring-context-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/spring-context-support-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/spring-core-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/spring-expression-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/spring-jcl-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/spring-security-crypto-5.0.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/spring-security-rsa-1.0.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/spring-web-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/spring-webmvc-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/stax-api-1.0-2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/stax-api-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/stax2-api-3.1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/stringtemplate-3.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/tomcat-embed-core-8.5.28.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/tomcat-embed-el-8.5.28.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/tomcat-embed-websocket-8.5.28.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/validation-api-2.0.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/woodstox-core-5.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/woodstox-core-asl-4.4.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/xmlpull-1.1.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/xpp3_min-1.1.4c.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/lib/xstream-1.4.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/springcloud-netflix-eureka-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-netflix-eureka/target/springcloud-netflix-eureka.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-pom/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-pom/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-pom/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -68,15 +551,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springcloud-guest/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springcloud-guest/conf/application.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
@@ -97,7 +571,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springcloud-api-gateway/src/main/java/com/hijklmn/springcloud/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
+            <state relative-caret-position="126">
               <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -109,7 +583,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springcloud-api-gateway/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
+            <state relative-caret-position="1980">
               <caret line="110" column="29" selection-start-line="110" selection-start-column="29" selection-end-line="110" selection-end-column="29" />
             </state>
           </provider>
@@ -118,7 +592,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springcloud-biz-order/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
+            <state relative-caret-position="1260">
               <caret line="70" column="74" selection-start-line="70" selection-start-column="74" selection-end-line="70" selection-end-column="74" />
             </state>
           </provider>
@@ -127,17 +601,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springcloud-biz-repo/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
+            <state relative-caret-position="1512">
               <caret line="84" column="12" selection-start-line="84" selection-start-column="12" selection-end-line="84" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="496">
+              <caret line="46" column="51" selection-start-line="46" selection-start-column="51" selection-end-line="46" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springcloud-biz-order/src/main/java/fun/hijklmn/springcloud/controller/OrderController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="610">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
             </state>
           </provider>
         </entry>
@@ -145,7 +628,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springcloud-biz-order/src/main/java/fun/hijklmn/springcloud/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
+            <state relative-caret-position="216">
               <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -157,7 +640,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springcloud-guest/src/main/java/fun/hijklmn/springcloud/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
+            <state relative-caret-position="486">
               <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -177,7 +660,9 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_COMMON_BRANCH" value="master" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -202,6 +687,7 @@
         <option value="$PROJECT_DIR$/springcloud-api-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-biz-order/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-biz-repo/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-biz-order/src/main/java/fun/hijklmn/springcloud/controller/OrderController.java" />
       </list>
     </option>
   </component>
@@ -243,7 +729,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -251,10 +736,56 @@
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-biz-order" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-biz-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-biz-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-biz-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-biz-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-biz-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -355,16 +886,26 @@
       <updated>1566095026170</updated>
       <workItem from="1566095027786" duration="890000" />
       <workItem from="1566096178263" duration="10115000" />
+      <workItem from="1566115490483" duration="441000" />
     </task>
+    <task id="LOCAL-00001" summary="-------》修改alpha分支">
+      <created>1566115702544</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566115702544</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11005000" />
+    <option name="totallyTimeSpent" value="11446000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="822" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="823" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -372,7 +913,6 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37534246" />
@@ -387,6 +927,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -401,6 +942,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="-------》修改alpha分支" />
+    <option name="LAST_COMMIT_MESSAGE" value="-------》修改alpha分支" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/springcloud-commons/src/main/java/fun/hijklmn/springcloud/biz/Req.java">
@@ -441,16 +986,7 @@
     <entry file="file://$PROJECT_DIR$/springcloud-biz-order/conf/application.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-biz-order/src/main/java/fun/hijklmn/springcloud/SpringBootLoadingDefaultProperties.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-biz-order/src/main/java/fun/hijklmn/springcloud/controller/OrderController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-228">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-biz-order/src/main/java/fun/hijklmn/springcloud/SpringBootLoadingDefaultProperties.java" />
     <entry file="file://$PROJECT_DIR$/springcloud-biz-repo/conf/application.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -461,13 +997,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-netflix-eureka/src/main/java/com/hijklmn/springcloud/SpringBootLoadingDefaultProperties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="35" column="5" selection-start-line="7" selection-end-line="35" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-netflix-eureka/src/main/java/com/hijklmn/springcloud/SpringBootLoadingDefaultProperties.java" />
     <entry file="file://$PROJECT_DIR$/springcloud-commons/src/main/java/fun/hijklmn/springcloud/pack/SpringBootLoadingDefaultProperties.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -505,13 +1035,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-netflix-eureka/src/main/java/com/hijklmn/springcloud/ApplicationConf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-netflix-eureka/src/main/java/com/hijklmn/springcloud/ApplicationConf.java" />
     <entry file="file://$PROJECT_DIR$/springcloud-netflix-eureka/conf/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -557,16 +1081,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-guest/src/main/java/fun/hijklmn/springcloud/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springcloud-guest/conf/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -583,7 +1097,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/springcloud-api-gateway/src/main/java/com/hijklmn/springcloud/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
+        <state relative-caret-position="126">
           <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -593,14 +1107,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/springcloud-api-gateway/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
+        <state relative-caret-position="1980">
           <caret line="110" column="29" selection-start-line="110" selection-start-column="29" selection-end-line="110" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-biz-order/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="70" column="74" selection-start-line="70" selection-start-column="74" selection-end-line="70" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-biz-repo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="84" column="12" selection-start-line="84" selection-start-column="12" selection-end-line="84" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/springcloud-biz-order/src/main/java/fun/hijklmn/springcloud/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
+        <state relative-caret-position="216">
           <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -608,24 +1136,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-biz-order/pom.xml">
+    <entry file="file://$PROJECT_DIR$/springcloud-guest/src/main/java/fun/hijklmn/springcloud/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="70" column="74" selection-start-line="70" selection-start-column="74" selection-end-line="70" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-biz-repo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="84" column="12" selection-start-line="84" selection-start-column="12" selection-end-line="84" selection-end-column="12" />
+        <state relative-caret-position="486">
+          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="496">
+          <caret line="46" column="51" selection-start-line="46" selection-start-column="51" selection-end-line="46" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-biz-order/src/main/java/fun/hijklmn/springcloud/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="610">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
         </state>
       </provider>
     </entry>
