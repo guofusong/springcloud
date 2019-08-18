@@ -1,0 +1,10 @@
+spring:
+ application:
+  name: springcloud-biz-repo
+server:
+ port: 8082
+eureka:
+ instance:
+  hostname: localhost
+ serviceUrl:
+  defaultZone: http://${eureka.instance.hostname}:${8761}/eureka/

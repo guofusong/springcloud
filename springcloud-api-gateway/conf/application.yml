@@ -1,0 +1,20 @@
+spring:
+ application:
+  name: springcloud-api-gateway
+
+server:
+ port: 8084
+
+eureka:
+ instance:
+  hostname: localhost
+ serviceUrl:
+  defaultZone: http://${eureka.instance.hostname}:${8761}/eureka/
+
+zuul:
+ routes:
+  springcloud-biz-repo: /repo/**
+
+zuul:
+ routes:
+  springcloud-biz-order: /order/**
