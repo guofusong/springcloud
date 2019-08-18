@@ -2,51 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99b982f9-45b4-49d6-93ae-716cd2cb8854" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/guofusong.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-api-gateway/conf/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-api-gateway/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-api-gateway/springcloud-api-gateway.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-api-gateway/src/main/java/com/hijklmn/springcloud/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-api-gateway/src/main/java/com/hijklmn/springcloud/conf/ApplicationConf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-api-gateway/src/main/java/com/hijklmn/springcloud/filter/AccessFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-biz-order/conf/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-biz-order/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-biz-order/springcloud-biz-order.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-biz-order/src/main/java/fun/hijklmn/springcloud/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-biz-order/src/main/java/fun/hijklmn/springcloud/controller/OrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-biz-repo/conf/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-biz-repo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-biz-repo/springcloud-biz-repo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-biz-repo/src/main/java/fun/hijklmn/springcloud/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-biz-repo/src/main/java/fun/hijklmn/springcloud/controller/RepoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-commons/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-commons/springcloud-commons.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-commons/src/main/java/fun/hijklmn/springcloud/biz/Req.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-commons/src/main/java/fun/hijklmn/springcloud/biz/Rsp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-commons/src/main/java/fun/hijklmn/springcloud/constants/BizCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-commons/src/main/java/fun/hijklmn/springcloud/constants/PayType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-commons/src/main/java/fun/hijklmn/springcloud/pack/SpringBootLoadingDefaultProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-commons/src/main/java/fun/hijklmn/springcloud/po/OrderDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-commons/src/main/java/fun/hijklmn/springcloud/po/RepoDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-guest/conf/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-guest/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-guest/springcloud-guest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-guest/src/main/java/fun/hijklmn/springcloud/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-guest/src/main/java/fun/hijklmn/springcloud/conf/ApplicationConf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-guest/src/main/java/fun/hijklmn/springcloud/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-guest/src/main/java/fun/hijklmn/springcloud/controller/OrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-guest/src/main/java/fun/hijklmn/springcloud/controller/RepoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-guest/src/main/java/fun/hijklmn/springcloud/service/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-guest/src/main/java/fun/hijklmn/springcloud/service/RepoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-guest/src/main/java/fun/hijklmn/springcloud/service/impl/OrderServiceFeignFallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-guest/src/main/java/fun/hijklmn/springcloud/service/impl/RepoServiceFeignFallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-netflix-eureka/conf/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-netflix-eureka/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-netflix-eureka/springcloud-netflix-eureka.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-netflix-eureka/src/main/java/com/hijklmn/springcloud/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/.classpath" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/.project" beforeDir="false" />
@@ -716,11 +671,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="79" />
-    <option name="y" value="31" />
-    <option name="width" value="1441" />
-    <option name="height" value="824" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="823" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -886,7 +840,7 @@
       <updated>1566095026170</updated>
       <workItem from="1566095027786" duration="890000" />
       <workItem from="1566096178263" duration="10115000" />
-      <workItem from="1566115490483" duration="441000" />
+      <workItem from="1566115490483" duration="780000" />
     </task>
     <task id="LOCAL-00001" summary="-------》修改alpha分支">
       <created>1566115702544</created>
@@ -899,10 +853,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11446000" />
+    <option name="totallyTimeSpent" value="11785000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="823" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="823" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
