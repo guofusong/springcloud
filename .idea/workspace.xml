@@ -2,6 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99b982f9-45b4-49d6-93ae-716cd2cb8854" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/guofusong.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-api-gateway/conf/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-api-gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-api-gateway/springcloud-api-gateway.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-api-gateway/src/main/java/com/hijklmn/springcloud/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-api-gateway/src/main/java/com/hijklmn/springcloud/conf/ApplicationConf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-api-gateway/src/main/java/com/hijklmn/springcloud/filter/AccessFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-biz-order/conf/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-biz-order/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-biz-order/springcloud-biz-order.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-biz-order/src/main/java/fun/hijklmn/springcloud/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-biz-order/src/main/java/fun/hijklmn/springcloud/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-biz-repo/conf/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-biz-repo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-biz-repo/springcloud-biz-repo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-biz-repo/src/main/java/fun/hijklmn/springcloud/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-biz-repo/src/main/java/fun/hijklmn/springcloud/controller/RepoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-commons/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-commons/springcloud-commons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-commons/src/main/java/fun/hijklmn/springcloud/biz/Req.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-commons/src/main/java/fun/hijklmn/springcloud/biz/Rsp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-commons/src/main/java/fun/hijklmn/springcloud/constants/BizCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-commons/src/main/java/fun/hijklmn/springcloud/constants/PayType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-commons/src/main/java/fun/hijklmn/springcloud/pack/SpringBootLoadingDefaultProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-commons/src/main/java/fun/hijklmn/springcloud/po/OrderDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-commons/src/main/java/fun/hijklmn/springcloud/po/RepoDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-guest/conf/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-guest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-guest/springcloud-guest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-guest/src/main/java/fun/hijklmn/springcloud/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-guest/src/main/java/fun/hijklmn/springcloud/conf/ApplicationConf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-guest/src/main/java/fun/hijklmn/springcloud/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-guest/src/main/java/fun/hijklmn/springcloud/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-guest/src/main/java/fun/hijklmn/springcloud/controller/RepoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-guest/src/main/java/fun/hijklmn/springcloud/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-guest/src/main/java/fun/hijklmn/springcloud/service/RepoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-guest/src/main/java/fun/hijklmn/springcloud/service/impl/OrderServiceFeignFallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-guest/src/main/java/fun/hijklmn/springcloud/service/impl/RepoServiceFeignFallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-netflix-eureka/conf/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-netflix-eureka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-netflix-eureka/springcloud-netflix-eureka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-netflix-eureka/src/main/java/com/hijklmn/springcloud/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/.classpath" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../springcloud-biz-order/.project" beforeDir="false" />
@@ -506,6 +551,15 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloud-guest/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springcloud-guest/conf/application.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
@@ -562,20 +616,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="46" column="51" selection-start-line="46" selection-start-column="51" selection-end-line="46" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/springcloud-biz-order/src/main/java/fun/hijklmn/springcloud/controller/OrderController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="610">
-              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+            <state relative-caret-position="143">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
@@ -583,7 +628,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springcloud-biz-order/src/main/java/fun/hijklmn/springcloud/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
+            <state relative-caret-position="108">
               <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -595,7 +640,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springcloud-guest/src/main/java/fun/hijklmn/springcloud/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
+            <state relative-caret-position="324">
               <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -617,7 +662,7 @@
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RECENT_COMMON_BRANCH" value="master" />
+    <option name="RECENT_COMMON_BRANCH" value="alpha_local" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -689,51 +734,6 @@
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-biz-order" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-biz-order" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-biz-order" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-biz-order" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-biz-order" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-biz-order" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -823,8 +823,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.Application (2)" />
-        <item itemvalue="Spring Boot.Application" />
         <item itemvalue="Spring Boot.Application (1)" />
+        <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="Spring Boot.Application (2)" />
+        <item itemvalue="Spring Boot.Application" />
       </list>
     </recent_temporary>
   </component>
@@ -853,13 +855,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11785000" />
+    <option name="totallyTimeSpent" value="11863000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="823" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="822" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -880,7 +881,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="13" visible="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Messages" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1082,7 +1083,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/springcloud-biz-order/src/main/java/fun/hijklmn/springcloud/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="108">
           <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1092,7 +1093,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/springcloud-guest/src/main/java/fun/hijklmn/springcloud/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
+        <state relative-caret-position="324">
           <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1102,8 +1103,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="46" column="51" selection-start-line="46" selection-start-column="51" selection-end-line="46" selection-end-column="51" />
+        <state relative-caret-position="143">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
