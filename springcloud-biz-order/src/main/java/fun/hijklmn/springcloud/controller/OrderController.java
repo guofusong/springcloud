@@ -42,5 +42,16 @@ public class OrderController {
 		return rsp;
 		
 	}
+
+	@RequestMapping(value = "/order/test")
+	public Rsp test() {
+
+		final Rsp rsp = new Rsp();
+
+		rsp.setCode(BizCode.success.code());
+		rsp.setResult("Order test");
+
+		return rsp;
+	}
 	
 }
