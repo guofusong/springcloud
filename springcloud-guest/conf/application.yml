@@ -2,7 +2,7 @@ spring:
  application:
   name: springcloud-guest
 server:
- port: 8080
+ port: 8081
 eureka:
  serviceUrl:
   defaultZone: http://localhost:8761/eureka/
