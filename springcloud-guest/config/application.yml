@@ -1,0 +1,26 @@
+spring:
+ application:
+  name: springcloud-guest
+ redis:
+  database: 0
+  host: r-bp1ofl772ned5ykjn4pd.redis.rds.aliyuncs.com
+  port: 6379
+  password: gfs!123456
+  timeout: 6000
+  jedis:
+   pool:
+    max-active: 100
+    max-wait: -1
+    max-idle: 10
+    min-idle: 5
+server:
+ port: 8081
+eureka:
+ serviceUrl:
+  defaultZone: http://localhost:8761/eureka/
+springcloud-biz-repo:
+ ribbon:
+  connectTimeout: 3000
+springcloud-biz-order:
+ ribbon:
+  connectTimeout: 4000
